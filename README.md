@@ -30,7 +30,7 @@ the hopes that it may be useful and/or make the world a more interesting place.
 
 **You should not use this software.**
 
-This software has not been independently audited and may contain bugs. It’s
+This software has not been independently audited and may contain bugs. Its
 design goal is to circumvent access controls. Your password and TOTP secret
 are stored in memory in cleartext. It will be blatantly obvious to anyone who
 looks at the server logs that you are using some sort of automation to
